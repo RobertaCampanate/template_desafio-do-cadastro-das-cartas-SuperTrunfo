@@ -16,7 +16,7 @@ int main() {
 
  // Leitura de dados da primeira carta
 
-  printf ("Digite código do Estado: (ex. A, B, C): ");
+  printf ("Digite código do Estado: (ex. A até H): ");
   scanf ("%s", estado);
 
   printf ("Digite o Codigo da Carta (ex. A01, B02, C03): "); 
